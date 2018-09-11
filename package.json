@@ -1,5 +1,5 @@
 {
-  "name": "shp-write",
+  "name": "anagraph-shp-write",
   "version": "0.3.2",
   "description": "write shapefiles from pure javascript",
   "main": "index.js",
@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "dbf": "0.1.4",
-    "jszip": "2.5.0"
+    "jszip": "3.*"
   },
   "devDependencies": {
     "browserify": "^13.0.0",
